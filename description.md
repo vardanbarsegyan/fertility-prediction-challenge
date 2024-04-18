@@ -1,3 +1,3 @@
 # Description of submission
 
-my first test  
+Submission 1. binary logistic regression with 99000+ variables.
